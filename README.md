@@ -1,1 +1,2 @@
-# project-mangoe-28
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
